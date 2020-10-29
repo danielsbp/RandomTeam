@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+	color: white;
+	font-weight: bold;
+}
+
+table {
+	border-radius: 20px;
+	border-color: #000;
+	font-family: Arial;
+}
+td {
+	text-align: center;
+	background-color: #ff9e4a;
+	text-shadow: 1px 1px 10px black;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+li {
+	list-style: none;
+}
+#btnSortear {
+	font-family: Arial;
+	font-weight: 700;
+	color: #ff9e4a;
+	background-color: black;
+	border-radius: 60px;
+	border-color: #ff9e4a;
+	width: 120px;
+	height: 70px;
+	transition: width 0.5s;	
+}
+
+#btnSortear:hover {
+	width: 200px;
+}
+
+#tabela {
+	font-weight: 600;
+	font-size: 30px;
+	font-color: red;
+	text-align:center;
+}
+
+#titulo {
+	color: #ff9e4a;
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.container {
+	text-align: center;
+}
+
+.botaoMais {
+	
+}
